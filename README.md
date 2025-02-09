@@ -1,4 +1,4 @@
-# Hello, I'm Marcus
+# Hi, I'm Marcus
 <a href="https://linkedin.com/in/marcus-gleeson-2b24b4176"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
