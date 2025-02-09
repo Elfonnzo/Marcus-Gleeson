@@ -56,5 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://google.com">Detection Lab</a>
+- <a href="https://google.com](https://github.com/Elfonnzo/Apply-Filters-to-SQL-Queries/blob/main/Apply%20filters%20to%20SQL%20queries.md">Apply Filters to SQL Queries</a>
 - SOC Automation Project
