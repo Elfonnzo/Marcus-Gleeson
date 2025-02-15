@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python - Creating a Parsing Algorithm           | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Create%20another%20algorithm.html">Creating a Parsing Algorithm</a>|
-| *Network Traffic Monitoring and Attack Detection | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Develop%20an%20algorithm.html">Detection Lab</a>|
+| Python - Creating a Parsing Algorithm           | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Create%20another%20algorithm.html">Google LAB Link</a>|
+| Python - Creating a Verification Algorithm | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Develop%20an%20algorithm.html">Google LAB Link</a>|
 | *Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | *Incident Response Planning and Execution      | SOC Automation Lab|
 | *Case Management with TheHive                  | SOC Automation Lab|
