@@ -21,7 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Python - Creating Expressions to Extract Data     | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Use%20regular%20expressions%20to%20find%20patterns.html">Google LAB Link</a>|
 | Python - Processing and Manipulating String Data              | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Work%20with%20strings%20in%20Python.html">Google LAB Link</a>|
 | Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
-| Python - Variable Initialization and Type Detection | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
+| Python - Variable Initialization and Type Detection | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Assign%20Python%20variables.html">Google LAB Link</a>|
 | Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
 | Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
 
