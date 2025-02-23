@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Python - Processing and Manipulating String Data              | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Work%20with%20strings%20in%20Python.html">Google LAB Link</a>|
 | Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
 | Python - Variable Initialization and Type Detection | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Assign%20Python%20variables.html">Google LAB Link</a>|
-| Python - Loop Creation | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
+| Python - Loop Creation | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Create%20loops.html">Google LAB Link</a>|
 | Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
 
 ## Tools
