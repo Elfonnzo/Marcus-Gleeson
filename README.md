@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Python - Importing and Parsing Text Files         | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Import%20and%20parse%20a%20text%20file.html">Google LAB Link</a>|
 | Python - Creating Expressions to Extract Data     | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Use%20regular%20expressions%20to%20find%20patterns.html">Google LAB Link</a>|
 | Python - Processing and Manipulating String Data              | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Work%20with%20strings%20in%20Python.html">Google LAB Link</a>|
-| *Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Work%20with%20strings%20in%20Python.html">Google LAB Link</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
