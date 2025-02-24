@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Python - Creating Iterative Statements | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Create%20loops.html">Google LAB Link</a>|
 | Python - Creating Conditional Statements | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_CreateAConditionalStatement.html">Google LAB Link</a>|
 | Python - Designing and Utilising Functions | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Create%20more%20functions.html">Google LAB Link</a>|
-| Python - Python Basics | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
+| Python - Python Basics | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_PracticeWritingPythonCode.html">Google LAB Link</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
