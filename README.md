@@ -22,7 +22,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
 | Python - Variable Initialization and Type Detection | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Assign%20Python%20variables.html">Google LAB Link</a>|
 | Python - Creating Iterative Statements | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Create%20loops.html">Google LAB Link</a>|
-| Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
+| Python - ******* | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
+| Python - ******* | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
+| Python - ******* | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
