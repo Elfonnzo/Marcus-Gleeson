@@ -23,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Python - Variable Initialization and Type Detection | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Assign%20Python%20variables.html">Google LAB Link</a>|
 | Python - Creating Iterative Statements | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Create%20loops.html">Google LAB Link</a>|
 | Python - Designing and Utilising Functions | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Create%20more%20functions.html">Google LAB Link</a>|
-| Python - ******* | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
+| Python - CC | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_CreateAConditionalStatement.html">Google LAB Link</a>|
 | Python - ******* | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
 
 ## Tools
