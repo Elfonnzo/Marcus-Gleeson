@@ -15,15 +15,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python - Creating a Parsing Algorithm           | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Create%20another%20algorithm.html">Google LAB Link</a>|
-| Python - Creating a Verification Algorithm | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Develop%20an%20algorithm.html">Google LAB Link</a>|
-| Python - Importing and Parsing Text Files         | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Import%20and%20parse%20a%20text%20file.html">Google LAB Link</a>|
-| Python - Creating Expressions to Extract Data     | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Use%20regular%20expressions%20to%20find%20patterns.html">Google LAB Link</a>|
-| Python - Processing and Manipulating String Data              | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Work%20with%20strings%20in%20Python.html">Google LAB Link</a>|
-| Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
-| Python - Variable Initialization and Type Detection | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Assign%20Python%20variables.html">Google LAB Link</a>|
 | Python - Creating Iterative Statements | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Create%20loops.html">Google LAB Link</a>|
 | Python - Creating Conditional Statements | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_CreateAConditionalStatement.html">Google LAB Link</a>|
+| Python - Creating a Verification Algorithm | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Develop%20an%20algorithm.html">Google LAB Link</a>|
+| Python - Creating Expressions to Extract Data     | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Use%20regular%20expressions%20to%20find%20patterns.html">Google LAB Link</a>|
+| Python - Importing and Parsing Text Files         | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Import%20and%20parse%20a%20text%20file.html">Google LAB Link</a>|
+| Python - Processing and Manipulating String Data              | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Activity_Work%20with%20strings%20in%20Python.html">Google LAB Link</a>|
+| Python - Variable Initialization and Type Detection | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Assign%20Python%20variables.html">Google LAB Link</a>|
 | Python - Designing and Utilising Functions | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_Create%20more%20functions.html">Google LAB Link</a>|
+| Python - General Debugging | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Debug_LAB_014_Activity.html">Google LAB Link</a>|
 | Python - Python Basics | <a href="https://Elfonnzo.github.io/Marcus-Gleeson/LAB_Activity_PracticeWritingPythonCode.html">Google LAB Link</a>|
 
 ## Tools
