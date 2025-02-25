@@ -61,5 +61,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Elfonnzo/Apply-Filters-to-SQL-Queries/blob/main/Apply%20filters%20to%20SQL%20queries.md">Apply Filters to SQL Queries</a>
-- <a href="https://Elfonnzo.github.io/Marcus-Gleeson/Alertticket.html">Alert Ticket Evaluation
+- <a href="https://github.com/Elfonnzo/Alert%20ticket.md">Alert Ticket Evaluation
 - SOC Automation Project
