@@ -34,6 +34,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/TCPdump-0000FF?&style=for-the-badge&logo=Zeek&logoColor=white" />
+
 </div>
 
 ### Endpoint
@@ -64,5 +66,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Elfonnzo/Alert-Ticket/blob/main/Alert%20ticket.md">Alert Ticket Evaluation</a>
 - <a href="https://github.com/Elfonnzo/Network-Incident-Report/blob/main/Cybersecurity%20incident%20report%20Analyze%20network%20attacks.md"> Network Attack Incident Report</a>
 - <a href="https://github.com/Elfonnzo/Linux-File-Permissions/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions.md">Linux File Permissions</a>
-
+- ADD WIRESHARK PCKT ANALYZE
 - SOC Automation Project
