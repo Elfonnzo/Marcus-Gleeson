@@ -31,6 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### System Administration
 <div>   
      <img src="https://img.shields.io/badge/Advanced Packet Tool (APT)-0000FF?&style=for-the-badge&logo=Zeek&logoColor=white" />
+     <img src="https://img.shields.io/badge/Shell Bash-D3D3D3?&style=for-the-badge&logo=Zeek&logoColor=white" />
 
 
 ### Network
