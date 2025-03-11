@@ -73,6 +73,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Elfonnzo/Apply-Filters-to-SQL-Queries/blob/main/Apply%20filters%20to%20SQL%20queries.md">Apply Filters to SQL Queries</a>
 - <a href="https://github.com/Elfonnzo/Alert-Ticket/blob/main/Alert%20ticket.md">Alert Ticket Evaluation</a>
 - <a href="https://github.com/Elfonnzo/Network-Incident-Report/blob/main/Cybersecurity%20incident%20report%20Analyze%20network%20attacks.md"> Network Attack Incident Report</a>
-- <a href="https://github.com/Elfonnzo/Linux-File-Permissions/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions.md">Linux File Permissions</a>
+- <a href="https://github.com/Elfonnzo/Linux-File-Permissions/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions.md"> Managing File Permissions in Linux</a>
 - ADD WIRESHARK PCKT ANALYZE
 - SOC Automation Project
