@@ -62,8 +62,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/Google%20Cybersecurity%20Certificate%20Badge.pdf">
-  <img src="https://img.shields.io/badge/VIII%20Google%20Cybersecurity%20Certificate-FFFFFF?style=for-the-badge&logo=google&logoColor=orange" alt="VIII Google Cybersecurity Certificate.pdf">
+<a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/VIII%20Google%20Cybersecurity%20Certificate%20Badge.pdf">
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-FFFFFF?style=for-the-badge&logo=google&logoColor=orange">
 </a>
 
 </div>
