@@ -60,7 +60,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-<div class="badge-container">
+<div>
     <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/I%20Google%20Foundations%20Of%20Cybersecurity%20Cert.pdf">
       <img src="https://img.shields.io/badge/I%20Google%20Foundations%20Of%20Cybersecurity%20Certificate-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF" />
     </a>    
