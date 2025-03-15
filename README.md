@@ -60,38 +60,39 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-</div>
+
+<div class="badge-container">
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/I%20Google%20Foundations%20Of%20Cybersecurity%20Cert.pdf">
-  <img src="https://img.shields.io/badge/I%20Google%20Foundations%20Of%20Cybersecurity%20Certificate-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div>
+<img src="https://img.shields.io/badge/I%20Google%20Foundations%20Of%20Cybersecurity%20Certificate-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF"
+     
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/II%20Google%20Manage%20Security%20Risks%20Cert.pdf">
-  <img src="https://img.shields.io/badge/II%20Google%20Play%20it%20Safe:%20Manage%20Security%20Risks-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div>
+<img src="https://img.shields.io/badge/II%20Google%20Play%20it%20Safe:%20Manage%20Security%20Risks-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF"
+ 
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/III%20Google%20Networks%20&%20Network%20Security%20Cert.pdf">
-  <img src="https://img.shields.io/badge/III%20Google%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div>
+<img src="https://img.shields.io/badge/III%20Google%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF"
+ 
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/IV%20Google%20Linux%20&%20SQL%20Cert.pdf">
-  <img src="https://img.shields.io/badge/IV%20Google%20Tools%20of%20The%20Trade:%20Linux%20and%20SQL-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div>
+<img src="https://img.shields.io/badge/IV%20Google%20Tools%20of%20The%20Trade:%20Linux%20and%20SQL-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF" 
+     
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/V%20Google%20Assets,%20Threats%20&%20Vulnerabilities%20Cert.pdf">
-  <img src="https://img.shields.io/badge/V%20Google%20Assets,%20Threats,%20and%20Vulnerabilities-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
+<img src="https://img.shields.io/badge/V%20Google%20Assets,%20Threats,%20and%20Vulnerabilities-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF"
+
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/VI%20Google%20Detection%20&%20Response%20Cert.pdf">
-  <img src="https://img.shields.io/badge/VI%20Google%20Sound%20the%20Alarm:%20Detection%20and%20Response-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div>
+<img src="https://img.shields.io/badge/VI%20Google%20Sound%20the%20Alarm:%20Detection%20and%20Response-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF" 
+
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python%20Cert.pdf">
-  <img src="https://img.shields.io/badge/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div>
+<img src="https://img.shields.io/badge/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF" 
+ 
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/VIII%20Google%20Prepare%20for%20Jobs%20Cert.pdf">
-  <img src="https://img.shields.io/badge/VIII%20Google%20Put%20it%20To%20work:%20Prepare%20for%20Cybersecurity%20Jobs-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div>
+<img src="https://img.shields.io/badge/VIII%20Google%20Put%20it%20To%20work:%20Prepare%20for%20Cybersecurity%20Jobs-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF"
+  
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/IX%20Google%20Cybersecurity%20Certificate.pdf">
-  <img src="https://img.shields.io/badge/IX%20Google%20Cybersecurity%20Professional%20Certificate-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div> 
-<a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/TAFE%20NSW%20Cyber%20MicroSkill%20Certificate.pdf">
-  <img src="https://img.shields.io/badge/Cyber%20MicroSkill%20Certificate-TAFE%20NSW-0A0A0A?style=for-the-badge">
+<img src="https://img.shields.io/badge/IX%20Google%20Cybersecurity%20Professional%20Certificate-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF"
+
+<a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/IX%20Google%20Cybersecurity%20Certificate.pdf">
+<img src="https://img.shields.io/badge/Cyber%20MicroSkill%20Certificate-TAFE%20NSW-0A0A0A?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF"
+
 </div>
-
-
 
 ## Projects
 - <a href="https://github.com/Elfonnzo/Apply-Filters-to-SQL-Queries/blob/main/Apply%20filters%20to%20SQL%20queries.md">Apply Filters to SQL Queries</a>
