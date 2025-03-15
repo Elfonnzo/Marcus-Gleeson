@@ -76,6 +76,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/IV%20Google%20Linux%20&%20SQL%20Cert.pdf">
   <img src="https://img.shields.io/badge/IV%20Google%20Tools%20of%20The%20Trade:%20Linux%20and%20SQL-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
 </div>
+<a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/V%20Google%20Assets,%20Threats,%20and%20Vulnerabilities%20Cert.pdf">
+  <img src="https://img.shields.io/badge/V%20Google%20Assets,%20Threats,%20and%20Vulnerabilities-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
+</div>
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python%20Cert.pdf">
   <img src="https://img.shields.io/badge/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
 </div>
