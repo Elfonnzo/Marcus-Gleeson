@@ -78,13 +78,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/V%20Google%20Assets,%20Threats%20&%20Vulnerabilities%20Cert.pdf">
   <img src="https://img.shields.io/badge/V%20Google%20Assets,%20Threats,%20and%20Vulnerabilities-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
+<a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python%20Cert.pdf">
+  <img src="https://img.shields.io/badge/VII%20Google%20Sound%20the%20Alarm:%20Detection%20and%20Response-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
 </div>
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python%20Cert.pdf">
   <img src="https://img.shields.io/badge/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
 </div>
-<a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/VII%20Google%20Automate%20Cybersecurity%20Tasks%20with%20Python%20Cert.pdf">
-  <img src="https://img.shields.io/badge/VII%20Google%20Sound%20the%20Alarm:%20Detection%20and%20Response-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
-</div>
+
 
 ## Projects
 - <a href="https://github.com/Elfonnzo/Apply-Filters-to-SQL-Queries/blob/main/Apply%20filters%20to%20SQL%20queries.md">Apply Filters to SQL Queries</a>
