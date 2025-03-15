@@ -86,6 +86,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 <a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/IX%20Google%20Cybersecurity%20Certificate.pdf">
   <img src="https://img.shields.io/badge/IX%20Google%20Cybersecurity%20Professional%20Certificate-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
+</div>
+<a href="https://github.com/Elfonnzo/Marcus-Gleeson/blob/main/TAFE%20NSW%20Cyber%20MicroSkill%20Certificate.pdf">
+  <img src="https://img.shields.io/badge/TAFE%20NSW%20Cybersecurity%20Professional%20Certificate-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=orange&labelColor=FFFFFF">
+
 
 
 ## Projects
