@@ -3,13 +3,11 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I'm a technology enthusiast with a strong passion for problem-solving and cybersecurity. While working in administration, I frequently assisted with computer systems and hardware, which nurtured my interest in the field. To deepen my knowledge, I completed the Google Cybersecurity course, further solidifying my technical skills. I'm eager to apply my expertise to real-world challenges and continue growing in the cybersecurity domain.
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+My studies and professional experience have fueled a strong passion for cybersecurity, motivating me to transition into the field. I am eager to begin my cybersecurity career in a Security Operations Center (SOC) as a Tier 1 Analyst, with the goal of advancing into roles such as penetration tester or security engineer.
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -89,5 +87,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Elfonnzo/Network-Incident-Report/blob/main/Cybersecurity%20incident%20report%20Analyze%20network%20attacks.md"> Network Attack Incident Report</a>
 - <a href="https://github.com/Elfonnzo/Linux-File-Permissions/blob/main/Use%20Linux%20commands%20to%20manage%20file%20permissions.md"> Managing File Permissions in Linux</a>
 - <a href="https://github.com/Elfonnzo/Linux-Packet-Cap/blob/main/Linuxpkt.md"> Network Traffic Analysis with tcpdump</a>
-- ADD WIRESHARK PCKT ANALYZE
-- SOC Automation Project
+
